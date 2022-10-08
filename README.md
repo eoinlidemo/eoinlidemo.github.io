@@ -4,7 +4,7 @@
 
 If you'd like to take a look at my explorations, click links below.
 
-| Repo Name | Repo Link | Website Link |
+| Repo Name | Link 2 Repo | Link 2 Website |
 | --- | --- | --- |
 | test1site | [Click here](https://github.com/eoinlidemo/test1site) | [Click here](https://eoinlidemo.github.io/test1site/)
 
